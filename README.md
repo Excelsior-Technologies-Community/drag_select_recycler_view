@@ -35,7 +35,7 @@ Add this to your pubspec.yaml:
 dependencies:
   drag_select_recycler_view:
     git:
-      url: https://github.com/your-username/drag_select_recycler_view.git
+      url: https://github.com/Excelsior-Technologies-Community/drag_select_recycler_view
 ```
 then run:
 ```
